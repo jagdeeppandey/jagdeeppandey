@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Python,C ,C++, Data structures, algorithms and Frontend development**
 
-- 📫 How to reach me **jagdeeppandey5426@gmail.com**
+- 📫 How to reach me **jagdeeppandey8774@gmail.com**
 
 - ⚡ Fun fact **I done my work on time with fun and full of energy.**
 
