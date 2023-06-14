@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Flutter, Machine Learning**
 
-- 💬 Ask me about **python,c,c++,flutter,dart,Machine Learning and Frontend development**
+- 💬 Ask me about **Python,C ,C++, Data structures, algorithms and Frontend development**
 
 - 📫 How to reach me **jagdeeppandey5426@gmail.com**
 
